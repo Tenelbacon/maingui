@@ -1,4 +1,5 @@
-
+--CREDIT TO ORION LIBRARY (MODIFIED VERSION)
+--https://github.com/shlexware/Orion/blob/main/source
 
 local UserInputService = game:GetService("UserInputService")
 local TweenService = game:GetService("TweenService")
